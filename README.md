@@ -1,20 +1,21 @@
 # React-From-Scratch-Using-Webpack ❕❕
 
-You can try it by yourself using the tutorial below or just clone it this repository for the convenient.❕❕
+You can try it by yourself using the tutorial below or just clone it in this repository for convenience.❕❕
 
 Why webpack instead of CRA or just simply use the Create React App ? 😎
 
-Webpack is fast and light weight module bundler ✔
+Webpack is a fast and lightweight module bundler ✔
 
-Webpack reduce the file size of standard CRA ✔
+Webpack reduces the file size of standard CRA ✔
 
-CRA is 260+ mb vs 60+ mb using webpack ✔
+CRA is 260+ Mb vs 60+ Mb using webpack ✔
 
 Webpack dev-server is smooth and compared to the server of CRA. ✔
 
 Webpack lessen the unnecessary file in your react-app ✔
 
-🔘Here are the step by step tutorial on how to setup and configure your react app using webpack. 
+
+Here are the step by step tutorial on how to setup and configure your react app using webpack. ❕❕❕
 
 🔸 Step 1: Create a folder and initialize the npm and open it using any IDE like vs code
 
@@ -97,10 +98,10 @@ Find the line "main" and change it to
 ▫ npx serve build 
 ▫ npm start
 
-That's all and see if it is working. 🙏
-This example is intended to people who wants to create
+That's all and see if it's working. 🙏
+This example is intended for people who want to create
 a react app from scratch using webpack and lessen the file size of it.
 
-I hope you learn some new in this step by step tutorial. 🤍
+I hope you learn something new in this step-by-step tutorial. 🤍
 
 Thank you very much! 🤍
