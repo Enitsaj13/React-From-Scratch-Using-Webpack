@@ -1,6 +1,6 @@
 # React-From-Scratch-Using-Webpack ❕❕
 
-You can try it by yourself using the tutorial below or just clone it this repository for the convient.❕❕
+You can try it by yourself using the tutorial below or just clone it this repository for the convenient.❕❕
 
 Why webpack instead of CRA or just simply use the Create React App ? 😎
 
