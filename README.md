@@ -15,15 +15,18 @@ Webpack lessen the unnecessary file in your react-app ✔
 🔘Here are the step by step tutorial on how to setup and configure your react app using webpack. 
 
 🔸 Step 1: Create a folder and initialize the npm and open it using any IDE like vs code
+
  ▫ mkdir react-folder
  ▫ npm init - y
  ▫ code . ( to open the folder instantly)
 
 🔸 Step 2: Go to the folder and install the react and react-dom
+
  ▫ cd react-folder
  ▫ npm i react react-dom
 
 🔸 Step 3: Install all these packages of webpack and babel
+
 ▫ npm i -D @babel/core @babel/cli @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react @babel/runtime babel-eslint babel-loader webpack webpack-cli webpack-dev-server
 
 🔸 Step 4: Create .babelrc file and add this line
@@ -67,10 +70,12 @@ module.exports = {
 };
 
 🔸 Step 6: Create public folder (inside your react-folder) and create index.html file
+
 ▫ mkdir public
 ▫ touch public/index.html
 
 🔸 Step 7: Create src folder (inside your react-folder) and create index.js file
+
 ▫ mkdir src
 ▫ touch src/index.js
 
@@ -85,6 +90,7 @@ Find the line "main" and change it to
 "main":  "./src/index.js"
 
 🔸 Step 9: Test your react app by simple typing 
+
 ▫ npm run build
 ▫ npx serve build 
 ▫ npm start
